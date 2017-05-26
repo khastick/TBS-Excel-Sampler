@@ -144,7 +144,7 @@ ciSheetNameProperty = "Onboarding Content Inventory";
 // different names.  The defaults for these will be setup in the Governor migration script and they will map to the
 // default content inventory template.  Any columns which do not map MUST be defined here.
 // ciFiles = [baseFolderName + "ACOA-APECA-Content_Inventory_Spreadsheet-RowNum_1-9107.xlsx"];
-ciFiles = [baseFolderName + "PHAC-test-ci.xlsx"];
+ciFiles = [baseFolderName + "phac-aspc-public-health-agency-of-canada-page-redirect-mapper-May26.xlsx"];
 ciSheetName = "Onboarding Content Inventory";
 ciHeaderRowIndex = 1;
 ciSha1Col = "X";
